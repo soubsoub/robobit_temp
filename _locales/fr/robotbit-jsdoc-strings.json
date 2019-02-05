@@ -22,5 +22,4 @@
 	"robotbit.StpCarTurn|param|track": "largeur de la piste; par exemple: 125",
 	"robotbit.StpCarTurn|param|turn": "degrés de rotation; par exemple: 90, 180, 360",
 	"robotbit.rgb": "Initialisation des leds RGB sur robotbit"
-
 		}
