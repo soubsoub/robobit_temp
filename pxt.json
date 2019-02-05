@@ -10,7 +10,9 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/robotbit-strings.json"
+        "_locales/zh/robotbit-strings.json",
+        "_locales/fr/robotbit-strings.json",
+        "_locales/fr/robotbit-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
